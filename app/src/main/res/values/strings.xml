@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TeraMind</string>
+    <string name="live_screen_loading">Loading...</string>
+    <string name="menu_date">Date Range</string>
+</resources>

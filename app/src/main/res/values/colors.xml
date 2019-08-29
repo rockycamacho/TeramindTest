@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7F3E</color>
+    <color name="colorPrimaryDark">#FF7056</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="profile_section_text">#fff</color>
+    <color name="default_photo_bg">#c0c0c0</color>
+</resources>
